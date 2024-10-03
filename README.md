@@ -2,11 +2,12 @@
 
 <h2 align="center"> Hi there 👋 </h2>
 
-<p align="center"> How big would you dream if you knew you couldn't fail? </p>
+<p align="center"> You can do anything you set your mind to </p>
 
 <p align="center">
-<a href="https://github.com/udaay">
-<img src="https://img.shields.io/github/followers/jaypalr1?style=social" alt="GitHub Followers"></a>
+<a href="https://github.com/jaypalr1">
+  <img src="https://img.shields.io/github/followers/jaypalr1?style=social" alt="GitHub Followers">
+</a>
 </p>
 
 ---
