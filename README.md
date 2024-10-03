@@ -2,14 +2,6 @@
 
 <h2 align="center"> Hi there 👋 </h2>
 
-<p align="center"> You can do anything you set your mind to </p>
-
-<p align="center">
-<a href="https://github.com/jaypalr1">
-  <img src="https://img.shields.io/github/followers/jaypalr1?style=social" alt="GitHub Followers">
-</a>
-</p>
-
 ---
 
 ### 🧠 A bit about myself
@@ -21,10 +13,8 @@ Myself Jaypal Rathod, a passionate Software Engineer from India, and here's a gl
 - 👯 I’m looking to collaborate on Spring security and Front end technologies
 - 🤔 I’m looking for help with Spring security, Front end technologies or any Java related work
 - 💬 Ask me about any Java related technologies or Spring framework. Happy to help 😊
-- 📫 How to reach me: You can
-  use [<img src = "https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="23">](https://www.linkedin.com/in/jaypalr/)
-  or send
-  an [Email](jaypal.rathod1307@gmail.com)
+- 📫 How to reach me: You can use [<img src = "https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="23">](https://www.linkedin.com/in/jaypalr/) or send an [Email](jaypal.rathod1307@gmail.com)
+- 💖 A quote: You can do anything you set your mind to
 - ⚡ Fun fact: Are developers hilarious?
 
 ---
@@ -161,6 +151,12 @@ Here's my trusted toolbox, filled with the tools of my trade:
 
 <p align="center">
   Thanks for dropping by! Let's connect, collaborate, and build something amazing 🌟
+</p>
+
+<p align="center">
+<a href="https://github.com/jaypalr1">
+  <img src="https://img.shields.io/github/followers/jaypalr1?style=social" alt="GitHub Followers">
+</a>
 </p>
 
 </div>
