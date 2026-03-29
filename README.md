@@ -157,4 +157,7 @@ Here's my trusted toolbox, filled with the tools of my trade:
 </a>
 </p>
 
+### Leetcode Metrics
+![Leetcode Stats](https://leetcard.jaypalr/lapor?ext=heatmap)
+
 </div>
