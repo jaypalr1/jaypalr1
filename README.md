@@ -147,6 +147,12 @@ Here's my trusted toolbox, filled with the tools of my trade:
 
 ---
 
+### Leetcode Metrics
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/jaypalr?theme=dark&font=ABeeZee&ext=heatmap)
+
+---
+
 <p align="center">
   Thanks for dropping by! Let's connect, collaborate, and build something amazing 🌟
 </p>
@@ -156,9 +162,5 @@ Here's my trusted toolbox, filled with the tools of my trade:
   <img src="https://img.shields.io/github/followers/jaypalr1?style=social" alt="GitHub Followers">
 </a>
 </p>
-
-### Leetcode Metrics
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/jaypalr?theme=dark&font=ABeeZee&ext=heatmap)
 
 </div>
