@@ -158,6 +158,7 @@ Here's my trusted toolbox, filled with the tools of my trade:
 </p>
 
 ### Leetcode Metrics
-![Leetcode Stats](https://leetcard.jaypalr/lapor?ext=heatmap)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/jaypalr?theme=dark&font=ABeeZee&ext=heatmap)
 
 </div>
